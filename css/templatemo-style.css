@@ -362,6 +362,7 @@ h5 {
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
+    height: 100%;
     margin-bottom: 40px;
     padding-bottom: 60px;
 }
