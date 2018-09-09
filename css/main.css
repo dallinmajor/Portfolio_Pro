@@ -1,0 +1,6 @@
+.shadow {
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: .05px;
+    -webkit-text-stroke-color: black;
+    text-shadow: -4px 4px black;
+}
