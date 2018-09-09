@@ -1,0 +1,5 @@
+.myMan {
+    background-image: url('/images/MyMan.jpg');
+    position: relative;
+    z-index: 3;
+}
