@@ -431,7 +431,7 @@ h5 {
 
 .post-masonry .post-thumb {
     transition: all .2s ease-in-out;
-    border: 10px solid #b5b5b5;
+    border: 10px solid white;
     overflow: hidden;
     position: relative;
 }
