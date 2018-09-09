@@ -212,7 +212,6 @@ h5 {
     height: 100%;
     width: 100%;
     z-index: 0;
-    background-image: url(../images/background5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -432,7 +431,6 @@ h5 {
 
 .post-masonry .post-thumb {
     transition: all .2s ease-in-out;
-    box-shadow: -10px 10px 30px 0px rgba(0,0,0,.75);
     border: 10px solid #b5b5b5;
     overflow: hidden;
     position: relative;
