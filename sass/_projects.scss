@@ -7,6 +7,7 @@
 	margin-bottom: 30px;
 	.post-thumb {
 		border: 10px solid $white;
+		overflow: hidden;
 		position: relative;
 		img {
 			width: 100%;
