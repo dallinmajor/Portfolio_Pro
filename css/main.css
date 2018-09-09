@@ -3,12 +3,12 @@
     -webkit-text-fill-color: white;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: white;
-    text-shadow: -5px 5px black;
+    text-shadow: -4px 4px black;
 }
 
 .name {
     -webkit-text-fill-color: black;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
-    text-shadow: -5px 5px white;
+    text-shadow: -3px 4px white;
 }
