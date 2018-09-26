@@ -12,3 +12,17 @@
     -webkit-text-stroke-color: black;
     text-shadow: -3px 4px white;
 }
+
+.buffer {
+    margin: 80px;
+    position: relative;
+    height: 400px;
+    margin-bottom: 100px;
+}
+
+.motto {
+    margin: auto;
+    position: relative;
+    top: 50%;
+
+}
